@@ -20,3 +20,6 @@ https://www.linkedin.com/company/dackielabs/
 https://coinmarketcap.com/vi/currencies/dackieswap/
 https://www.coingecko.com/en/coins/dackieswap
 https://mee6.xyz/en/dackie
+https://testnets.opensea.io/collection/dackie-nft-collection
+https://testnets.opensea.io/collection/quackpro-nft-collection
+https://testnets.opensea.io/collection/deggkies-nft-collection
