@@ -24,3 +24,5 @@ https://testnets.opensea.io/collection/dackie-nft-collection
 https://testnets.opensea.io/collection/quackpro-nft-collection
 https://testnets.opensea.io/collection/deggkies-nft-collection
 https://discord.gg/dackie
+https://www.testnet.dackieswap.xyz
+https://www.docs.dackieswap.xyz
